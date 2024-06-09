@@ -1,0 +1,39 @@
+<html>
+  <body style="font-family:monospace">
+    <header style="background-color:#FFB6C1;">
+        <a style="color:#663399;" href="#">Home</a>
+        <a style="color:#663399;" href="#">About</a>
+        
+    </header>
+    <main style="background-color:#DDA0DD;">
+        <h1> my favorite phonk song</h1>
+        <img style="opacity:0.9;"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7owm93ZKn2KBIaUggZEp079cfGxlQnzWy8g&s"> 
+        <h2>what is phonk song?</h2>
+       <p>Phonk (/fɒŋk/ ⓘ) is a subgenre of hip hop and trap music directly inspired by 1990s Memphis rap. The style is characterized by vocals from old Memphis rap tapes and samples from early 1990s hip hop, especially cowbell samples resembling that of the Roland TR-808 drum machine. The genre draws from the dark, distortive techniques of the chopped and screwed sound.There a lot of phonk song in the world and some othem being mixed up!</p>
+
+    </main> 
+    <footer style="background-color:Indigo;"> 
+      <h1 style="color:white;">What is considered a phonk song?</h1>
+      <p style="color:white;">It is a subgenre of hip-hop and trap music that emerged in the late 2010s. It is characterized by its lo-fi quality, heavy bass, repetitive lyrics, and samples from old-school hip-hop, funk, and soul music. The genre also incorporates elements of horrorcore, making it distinct for its eerie, ghostly vibes.</p>
+       <img style="opacity:0.7"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypzJRmJSKAnZM-EwAUQCUYZSZSvbmTd928g&s">
+       <img style="opacity:0.8" src="https://i1.sndcdn.com/artworks-wWKCeLMMPjBuz5Wo-U0robA-t500x500.jpg" height="230px" 
+       width="230px">
+       <h1 style="color:white;">My favorite mix phonk</h1>
+       <h3 style="color:white;">One of my favorite mix from phonk song is CUTE DEPRESSED X LOVEVY BASTARDS.It's a mix from Dyan Dxddy and YATASHIGANG's phonk song</h3>
+       <table style="border:1px solid white;color:white;">
+        <tr style="border:1px solid white">
+           <td style="border:1px solid white;color:white;">song title</td> 
+           <td style="border:1px solid white;color:white;">time(min:sec)</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid white;color:white;">CUTE DEPRESSED</td> 
+            <td style="border:1px solid white;color:white;">1:37</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid white;color:white;">LOVELY BASTARDS</td> 
+            <td style="border:1px solid white;color:white;">1:56</td>
+        </tr>
+       </table>
+    </footer> 
+  </body>  
+</html>
